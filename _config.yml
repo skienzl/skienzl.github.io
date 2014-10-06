@@ -3,30 +3,30 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Stefan Kienzl"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  hauptsächlich dev blog
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/author.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Stefan Kienzl'
+author: 'Stefan Kienzl'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://blog.skienzl.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/stkienzl
+    desc: Folge mir auf Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -39,15 +39,15 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/skienzl
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	google-plus
+    url:	https://plus.google.com/+StefanKienzl/
+    desc:	Add me on google+
+    share_url:
+    share_title:
+    share_link:
