@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Stefan Kienzl"
 description: > # this means to ignore newlines until "email:"
-  hauptsächlich dev blog
+  überwiegend einfach ein dev blog
 
 email: a-mail@mail.mail
 #blog logo

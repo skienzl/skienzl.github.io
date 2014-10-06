@@ -21,7 +21,7 @@ layout: default
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
       {% endfor %}
-      <a href="/about/">About</a>
+      <a href="/about/">Über mich</a>
     </div>
 </header>
 
@@ -61,7 +61,7 @@ layout: default
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date: "%m/%d/%Y" }}</time>
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           <div>
@@ -76,9 +76,9 @@ layout: default
       <span class="page-number">Seite {{ paginator.page }} von {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
+          <a class="older-posts" href="/">Neuere Einträge &rarr;</a>
         {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+          <a class="older-posts" href="/page{{paginator.previous_page}}">Neuere Einträge &rarr;</a>
         {% endif %}
       {% endif %}
     </nav>
