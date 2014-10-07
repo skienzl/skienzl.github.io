@@ -4,6 +4,7 @@ title: Was dich erwartet
 permalink: /about/
 ---
 
+
 Du solltest natürlich auch etwas mitnehmen wenn du schon deine Zeit hier verbringst. 
 
 ### Also was kann ich dir bieten? 
@@ -19,3 +20,9 @@ Du solltest natürlich auch etwas mitnehmen wenn du schon deine Zeit hier verbri
 
 ### Du hast noch ein paar Fragen!
 > Kein Problen. Dann keine Scheu und melde dich [hier](mailto:info@skienzl.com) bei mir.
+
+--
+
+### Und so schaut der Junge aus:
+--
+>![](/assets/images/about_me.jpg "That's me")
