@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-Du solltest natürlich auch etwas mitnehmen wenn du schon deine Zeit mit meinen Einträgen verbringst. 
-
 ### Also was kann ich dir bieten? 
 >Als [selbstständiger Entwickler](http://codemode.at) mit dem Schwerpunkt Android App Entwicklung, kann ich dir hier von meinen Erfahrungen und Entwicklungen berichten.  
 
@@ -20,8 +18,6 @@ Du solltest natürlich auch etwas mitnehmen wenn du schon deine Zeit mit meinen 
 ### Du hast noch ein paar Fragen!
 > Kein Problem. Melde dich [hier](mailto:info@skienzl.com) bei mir.
 
---
 
-### Und so schaut der Junge aus:
---
->![](/assets/images/about_me.jpg "That's me")
+![](/assets/images/about_me.jpg "That's me")
+
