@@ -1,17 +1,21 @@
 ---
 layout: page
-title: About
+title: Was dich erwartet
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Du solltest natürlich auch etwas haben wenn du schon deine Zeit hier verbringst. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+### Also was kann ich dir bieten? 
+>Als [selbstständiger Entwickler](http://codemode.at) mit dem schwerpunkt Android App Entwicklung, kann ich dir hier von meinen Erfahrungen und Entwicklungen berichten.  
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Und du weißt auch von was du redest?
+>Android hat mich schon während meines Studiums im Jahr 2010 in den Bann gezogen. Mit all sein Licht und Schattenseiten. Das heist ich habe da schon sehr sehr viele "Aha"-Erlebnisse gehabt. <br /> 
+>Diese werde ich hier weiter geben um dir den Einstieg zu erleichtern und auch in fortgeschrittenem Stadium konstruktive Tipps bereitstellen.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+### Wo lebst und arbeitest du? 
+>Ich wohne im wunderschönen Kärnten. Hier habe ich alle möglichkeiten meinen Kopf frei zu bekommen und all meinen sportlichen Hobbies nach zu gehen. <br /> 
+>Im [Rettungsboot Coworking](http://rettungsboot.co.at) habe ich beruflich mein Lager aufgeschlagen. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Ich hätte da noch ein paar Fragen!
+> Kein Problenm. Dann keine scheu und melde dich [hier](mailto:info@skienzl.com) bei mir.
