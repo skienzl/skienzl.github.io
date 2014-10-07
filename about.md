@@ -19,7 +19,7 @@ Du solltest natürlich auch etwas mitnehmen wenn du schon deine Zeit hier verbri
 >Beruflich habe ich mein Lager im [Rettungsboot Coworking](http://rettungsboot.co.at) aufgeschlagen. 
 
 ### Du hast noch ein paar Fragen!
-> Kein Problen. Dann keine Scheu und melde dich [hier](mailto:info@skienzl.com) bei mir.
+> Kein Problem. Melde dich [hier](mailto:info@skienzl.com) bei mir.
 
 --
 
